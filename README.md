@@ -4,6 +4,9 @@
 
 This project dataset hasbeen collected from a previously ended Kaggle Competition named [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data) where the task was to detect toxicity across a diverge range of conversations.
 
+## Project Task
+In this datset, the text of the individual comment is found in the comment_text column. Each comment in Train has a toxicity label (target), and models should predict the target toxicity for the Test data. This attribute (and all others) are fractional values which represent the fraction of human raters who believed the attribute applied to the given comment. For evaluation, test set examples with target >= 0.5 will be considered to be in the positive class (toxic).
+
 ### File descriptions
 * train.csv - the training set, which includes toxicity labels and subgroups
 * test.csv - the test set, which does not include toxicity labels or subgroups
