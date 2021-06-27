@@ -24,7 +24,7 @@ If you face any problem to run this notebook, make sure that you have turned on 
 
 ## Authors
 
-[Md. Abrar Jahin] (https://www.linkedin.com/in/md-abrar-jahin-9a026018b/)
+[Md. Abrar Jahin](https://www.linkedin.com/in/md-abrar-jahin-9a026018b/)
 
 ## License
 
